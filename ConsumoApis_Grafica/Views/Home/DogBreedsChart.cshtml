@@ -1,0 +1,42 @@
+﻿@model Dictionary<string, List<string>>
+
+@{
+    ViewData["Title"] = "Tabla de razas de perros";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<canvas id="dogBreedsChart" width="400" height="400"></canvas>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        var ctx = document.getElementById('dogBreedsChart').getContext('2d');
+        var breeds = @Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(Model));
+        var breedNames = Object.keys(breeds);
+        var breedCounts = breedNames.map(function (breed) {
+            return breeds[breed].length;
+        });
+
+        var chart = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: breedNames,
+                datasets: [{
+                    label: 'Número de subrazas',
+                    data: breedCounts,
+                    backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                    borderColor: 'rgba(75, 192, 192, 1)',
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
+    });
+</script>

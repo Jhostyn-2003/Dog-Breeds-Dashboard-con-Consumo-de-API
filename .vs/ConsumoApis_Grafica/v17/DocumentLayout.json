@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\ConsumoApis_Grafica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03FD12DC-D1BA-4583-BDDB-F012268EFCC6}|ConsumoApis_Grafica\\ConsumoApis_Grafica.csproj|c:\\users\\user\\source\\repos\\consumoapis_grafica\\consumoapis_grafica\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03FD12DC-D1BA-4583-BDDB-F012268EFCC6}|ConsumoApis_Grafica\\ConsumoApis_Grafica.csproj|solutionrelative:consumoapis_grafica\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03FD12DC-D1BA-4583-BDDB-F012268EFCC6}|ConsumoApis_Grafica\\ConsumoApis_Grafica.csproj|c:\\users\\user\\source\\repos\\consumoapis_grafica\\consumoapis_grafica\\views\\home\\dogbreedschart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03FD12DC-D1BA-4583-BDDB-F012268EFCC6}|ConsumoApis_Grafica\\ConsumoApis_Grafica.csproj|solutionrelative:consumoapis_grafica\\views\\home\\dogbreedschart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03FD12DC-D1BA-4583-BDDB-F012268EFCC6}|ConsumoApis_Grafica\\ConsumoApis_Grafica.csproj|c:\\users\\user\\source\\repos\\consumoapis_grafica\\consumoapis_grafica\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03FD12DC-D1BA-4583-BDDB-F012268EFCC6}|ConsumoApis_Grafica\\ConsumoApis_Grafica.csproj|solutionrelative:consumoapis_grafica\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03FD12DC-D1BA-4583-BDDB-F012268EFCC6}|ConsumoApis_Grafica\\ConsumoApis_Grafica.csproj|c:\\users\\user\\source\\repos\\consumoapis_grafica\\consumoapis_grafica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03FD12DC-D1BA-4583-BDDB-F012268EFCC6}|ConsumoApis_Grafica\\ConsumoApis_Grafica.csproj|solutionrelative:consumoapis_grafica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03FD12DC-D1BA-4583-BDDB-F012268EFCC6}|ConsumoApis_Grafica\\ConsumoApis_Grafica.csproj|c:\\users\\user\\source\\repos\\consumoapis_grafica\\consumoapis_grafica\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03FD12DC-D1BA-4583-BDDB-F012268EFCC6}|ConsumoApis_Grafica\\ConsumoApis_Grafica.csproj|solutionrelative:consumoapis_grafica\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03FD12DC-D1BA-4583-BDDB-F012268EFCC6}|ConsumoApis_Grafica\\ConsumoApis_Grafica.csproj|c:\\users\\user\\source\\repos\\consumoapis_grafica\\consumoapis_grafica\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03FD12DC-D1BA-4583-BDDB-F012268EFCC6}|ConsumoApis_Grafica\\ConsumoApis_Grafica.csproj|solutionrelative:consumoapis_grafica\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03FD12DC-D1BA-4583-BDDB-F012268EFCC6}|ConsumoApis_Grafica\\ConsumoApis_Grafica.csproj|c:\\users\\user\\source\\repos\\consumoapis_grafica\\consumoapis_grafica\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03FD12DC-D1BA-4583-BDDB-F012268EFCC6}|ConsumoApis_Grafica\\ConsumoApis_Grafica.csproj|solutionrelative:consumoapis_grafica\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsumoApis_Grafica\\ConsumoApis_Grafica\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ConsumoApis_Grafica\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsumoApis_Grafica\\ConsumoApis_Grafica\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ConsumoApis_Grafica\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T13:47:55.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsumoApis_Grafica\\ConsumoApis_Grafica\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ConsumoApis_Grafica\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsumoApis_Grafica\\ConsumoApis_Grafica\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ConsumoApis_Grafica\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T13:42:52.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DogBreedsChart.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsumoApis_Grafica\\ConsumoApis_Grafica\\Views\\Home\\DogBreedsChart.cshtml",
+              "RelativeDocumentMoniker": "ConsumoApis_Grafica\\Views\\Home\\DogBreedsChart.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsumoApis_Grafica\\ConsumoApis_Grafica\\Views\\Home\\DogBreedsChart.cshtml",
+              "RelativeToolTip": "ConsumoApis_Grafica\\Views\\Home\\DogBreedsChart.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T13:36:49.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsumoApis_Grafica\\ConsumoApis_Grafica\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ConsumoApis_Grafica\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsumoApis_Grafica\\ConsumoApis_Grafica\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ConsumoApis_Grafica\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T13:28:33.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsumoApis_Grafica\\ConsumoApis_Grafica\\Program.cs",
+              "RelativeDocumentMoniker": "ConsumoApis_Grafica\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsumoApis_Grafica\\ConsumoApis_Grafica\\Program.cs",
+              "RelativeToolTip": "ConsumoApis_Grafica\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAYwCAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T13:27:56.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsumoApis_Grafica\\ConsumoApis_Grafica\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ConsumoApis_Grafica\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsumoApis_Grafica\\ConsumoApis_Grafica\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ConsumoApis_Grafica\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T13:46:35.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ConsumoApis_Grafica\\ConsumoApis_Grafica\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ConsumoApis_Grafica\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ConsumoApis_Grafica\\ConsumoApis_Grafica\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ConsumoApis_Grafica\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwCEAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T13:27:47.058Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
